@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "379066980370",
+    "firebase_url": "https://taling-faa67.firebaseio.com",
+    "project_id": "taling-faa67",
+    "storage_bucket": "taling-faa67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379066980370:android:455254b474bd9f19",
+        "android_client_info": {
+          "package_name": "com.example.hoyeonlee.FirebaseTestProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379066980370-16u73kdc5q5o8uluvjvhe9igha8sg9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAegGlKqPXUiZuWP_4SkoRPeBP8jBYCB3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379066980370:android:50f281e93f6d4078",
+        "android_client_info": {
+          "package_name": "com.example.hoyeonlee.day26_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379066980370-16u73kdc5q5o8uluvjvhe9igha8sg9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAegGlKqPXUiZuWP_4SkoRPeBP8jBYCB3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379066980370:android:c56d8456301c16d6",
+        "android_client_info": {
+          "package_name": "com.example.hoyeonlee.forspecuppresentation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379066980370-16u73kdc5q5o8uluvjvhe9igha8sg9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAegGlKqPXUiZuWP_4SkoRPeBP8jBYCB3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
